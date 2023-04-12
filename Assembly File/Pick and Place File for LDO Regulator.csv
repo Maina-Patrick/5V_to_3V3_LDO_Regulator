@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+D:\Documents and Projects\Altium Projects\DC Voltage Regulator\DC_Regulator\Project Outputs for DC_Regulator\Pick Place for LDO Regulator.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/04/23
+Time:       01:22
+Revision:   73c1ce8c527732abbef1c0593bd6ae81d07167a4
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","MIC5317-3.3YM5-TR","TopLayer","FP-SOT23-5LD-PL-1-MFG","81.0000","68.0000","0","IC REG LINEAR 3.3V 150MA SOT23-5"
+"J2","SM02B-GHS-TB(LF)(SN)","TopLayer","FP-SM02B-GHS-TB_LF_SN-MFG","89.3250","68.0000","90","CONN HEADER SMD R/A 2POS 1.25MM"
+"J1","SM02B-GHS-TB(LF)(SN)","TopLayer","FP-SM02B-GHS-TB_LF_SN-MFG","72.6750","68.0000","270","CONN HEADER SMD R/A 2POS 1.25MM"
+"C2","1uF","TopLayer","FP-CC0805-0_85-MFG","84.5000","68.0750","270","CAP CER 1UF 10V X7R 0805"
+"C1","1uF","TopLayer","FP-CC0805-0_85-MFG","77.5000","68.0000","270","CAP CER 1UF 10V X7R 0805"
