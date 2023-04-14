@@ -1,4 +1,4 @@
-# -5V_to_-3V3_LDO_Regulator
+# +5V_to_+3V3_LDO_Regulator
 ### This is a 2-layer LDO voltage regulator developed in Altium Designer.
 ### The key components onboard include:
 * #### **A Low Drop-out (LDO) Voltage Regulator (+5V to +3.3V)**
